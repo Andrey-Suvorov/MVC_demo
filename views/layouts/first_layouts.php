@@ -3,7 +3,7 @@
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name="language" content="en" />
-		<link rel="stylesheet" type="text/css" href="/css/main.css" />
+		<link rel="stylesheet" type="text/css" href="/web/css/main.css" />
 		<title>
 			Управление файлами
 		</title>
